@@ -2,7 +2,6 @@ __pycache__/
 *.py[cod]
 *.pyo
 *.pyd
-*.db
 *.sqlite3
 
 # Virtual Environment
@@ -14,9 +13,6 @@ venv/
 *.pot
 *.pyc
 *.pyo
-*.db
 .DS_Store
 
-# IDEs and Editors
-.idea/
 .vscode/
